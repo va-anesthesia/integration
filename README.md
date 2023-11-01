@@ -1,3 +1,3 @@
 ### VA Anesthesia Integration and Interfacing
 
-![integration](integration.svg)
+![integration](integration2.svg)
