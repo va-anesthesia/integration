@@ -1,3 +1,3 @@
 ## VA Enterprise Anesthesia Systems Integration and Interfacing
 
-![integration](img/integration3.svg)
+![integration](img/integration4.svg)
