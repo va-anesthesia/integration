@@ -1,5 +1,5 @@
 ##### VA Anesthesia Systems Integration and Interfacing
 
 
-![integration](img/integration-simple.svg)
+![integration](img/integration-s2.svg)
 
