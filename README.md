@@ -1,13 +1,11 @@
-## VA Anesthesia Systems Integration and Interfacing
+#### VA Anesthesia Systems Integration and Interfacing
+
+.  
+.  
+
+![integration](img/integration2.svg)
 
 
-### Approach #1
-![integration](img/integration-s2.svg)
-
-
-### Approach #2
-
-![integration](img/integration5.svg)
 
 
 
